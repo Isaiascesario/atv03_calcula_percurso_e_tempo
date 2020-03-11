@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time and Distance Traveled</string>
+    <string name="conceder">Grant Permission</string>
+    <string name="ativar">Enable GPS</string>
+    <string name="desativar">Disable GPS</string>
+    <string name="inciar">Start Tour</string>
+    <string name="terminar">End Course</string>
+    <string name="oque_procura">What are you looking for?</string>
+    <string name="distancia_percorrida">Travelled Distance</string>
+    <string name="tempo_passado">Past time</string>
+    <string name="sem_gps_nao_da">No GPS does not roll</string>
+    <string name="conceda_permissao">Please Grant Permission</string>
+    <string name="gps_ja_desativado">GPS is already disabled</string>
+    <string name="precisa_ativar_GPS">Please activate GPS</string>
+</resources>

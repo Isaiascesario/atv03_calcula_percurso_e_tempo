@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeit und Zurückgelegte Strecke</string>
+    <string name="conceder">Erlaubnis erteilen</string>
+    <string name="ativar">GPS aktivieren</string>
+    <string name="desativar">GPS deaktivieren</string>
+    <string name="inciar">Tour starten</string>
+    <string name="terminar">Kurs beenden</string>
+    <string name="oque_procura">Was suchst du</string>
+    <string name="distancia_percorrida">Zurückgelegte Strecke</string>
+    <string name="tempo_passado">Vergangene Zeit</string>
+    <string name="sem_gps_nao_da">Kein GPS rollt nicht</string>
+    <string name="conceda_permissao">Bitte erteilen Sie die Erlaubnis</string>
+    <string name="gps_ja_desativado">GPS ist bereits deaktiviert</string>
+    <string name="precisa_ativar_GPS">Bitte aktivieren Sie GPS</string></resources>

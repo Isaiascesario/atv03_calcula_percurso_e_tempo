@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tempo e Distancia Percorrida</string>
+    <string name="conceder">Conceder Permissão</string>
+    <string name="ativar">Ativar GPS</string>
+    <string name="desativar">Desativar GPS</string>
+    <string name="inciar">Iniciar Percurso</string>
+    <string name="terminar">Terminar Percurso</string>
+    <string name="oque_procura">O que você procura?</string>
+    <string name="distancia_percorrida">Distancia Percorrida</string>
+    <string name="tempo_passado">Tempo Passado</string>
+    <string name="sem_gps_nao_da">Sem GPS não rola</string>
+    <string name="conceda_permissao">Por favor Conceda Permissão</string>
+    <string name="gps_ja_desativado">O GPS já esta desativado</string>
+    <string name="precisa_ativar_GPS">Por favor ative o GPS</string>
+</resources>
